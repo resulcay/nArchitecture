@@ -2,6 +2,7 @@ using Application;
 using Core.CrossCuttingConcerns.Exceptions;
 using Persistence;
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
